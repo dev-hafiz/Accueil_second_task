@@ -55,8 +55,30 @@
 }
 
 
+/* ================ FOOTER ===============*/
+.footer-top {
+     margin-top: 100px;
+ }
+ 
+ .footer-social-icons span {
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     background-color: #18A6A8;
+     padding: 10px;
+     display: inline-block;
+ }
+ 
+ .footer-social-icons span i {
+     color: #fff;
+     display: block;
+     margin: 6px auto;
+     text-align: center;
+ }
+
+
 /*=======================
-    Code wirh Hafiz/dev
+    Code with Dev/Hafiz
  ========================*/
 
 /*====================
@@ -100,7 +122,19 @@
      padding: 6px 14px;
 
 }
-
+.btn-cst-ia{
+     background: #4CC0C3;
+     color: #fff;
+     outline: none;
+     border: none;
+     padding: 16px 59px;
+     font-weight: bold;
+     font-size: 18px;
+     border-bottom-right-radius: 50px;
+     border-top-right-radius: 50px;
+     margin-top: 40px;
+     margin-left: -12px;
+}
 /*===========================
      Banner Section styles
 =============================*/
@@ -145,4 +179,37 @@
      background: #F2F2F2;
      margin-top: 3px;
      padding: 60px 80px;
+     border-radius: 20px;
+}
+
+
+/*=================
+     la-page 
+===================*/
+.la-page{
+     background: #F2F2F2;
+     padding: 10px 80px;
+     border-radius: 20px;
+}
+
+/*================
+     Guide area
+=================*/
+.guide-area{
+     background: #096F71;
+     padding: 70px 80px;
+     border-radius: 20px;
+     color: #fff;
+}
+
+/*==============
+   LES POINTS
+=============*/
+.points-area{
+     padding: 10px 10px 10px 80px;
+}
+
+.right-success-col{
+     background: #16A6A8;
+     border-radius: 20px;
 }
