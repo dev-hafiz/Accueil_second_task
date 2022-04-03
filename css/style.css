@@ -1,0 +1,148 @@
+/*== CUSTOM BUTTONS ==*/
+.btn-cst-primary {
+     background-color: #16A6A8;
+     color: #fff;
+}
+
+
+.btn-cst-secondary {
+     background: #096F71;
+     color: #fff;
+}
+
+.btn-cst-yellow {
+     background: #EEA333;
+     color: #fff;
+     font-size: 13px !important;
+}
+
+/* ================ HEADER ===============*/
+.header-top {
+     background: #7C7C7C;
+     border-bottom-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+}
+
+.header-top #navbarDropdown {
+     padding: 0 !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+     color: #46BFC2 !important;
+
+}
+
+.social-brands {
+     background: #c4c4c4;
+     color: #fff;
+     padding: 4px 6px;
+     border-radius: 50%;
+     margin-right: 5px;
+}
+
+/* ================ Services / Solution === */
+.heart-icon {
+     width: 30px;
+     height: 30px;
+     background: #FF7D3E;
+     color: #fff;
+     border-radius: 50px;
+     text-align: center !important;
+}
+
+.heart-icon svg {
+     margin-top: 7px !important
+}
+
+
+/*=======================
+    Code wirh Hafiz/dev
+ ========================*/
+
+/*====================
+     Customs Button 
+===================== */
+
+.btn-cst-semi-one {
+     background: #0F9AFE;
+     border-radius: 20px;
+     color: #fff;
+     font-weight: 112px;
+     font-size: 13px;
+}
+
+.btn-cst-semi-two {
+     background: #3D5199;
+     color: #fff;
+     font-weight: 112px;
+     font-size: 13px;
+}
+
+.btn-cst-semi-three {
+     background: #964885;
+     color: #fff;
+     font-weight: 112px;
+     font-size: 13px;
+}
+
+.btn-cst-semi-four {
+     background: #9ACC83;
+     color: #fff;
+     font-weight: 112px;
+     font-size: 13px;
+}
+
+.btn-cst-semi-five {
+     background: #fff;
+     color: #FF7D3E;
+     font-weight: 112px;
+     font-size: 13px;
+     padding: 6px 14px;
+
+}
+
+/*===========================
+     Banner Section styles
+=============================*/
+.state-box {
+     background: #16A6A8;
+     padding: 46px;
+     border-radius: 10px;
+     position: absolute;
+     top: 190px;
+     left: 80px;
+}
+
+/*===========================
+     SideBar Section styles
+=============================*/
+.sideBar-area {
+     margin-top: 120px;
+}
+
+/* Fliter section  */
+.filter-box {
+     background: rgba(24, 166, 168, 0.17);
+     padding: 20px 70px;
+     border-top-right-radius: 20px;
+     border-top-left-radius: 20px;
+}
+
+.filter-input {
+     border-radius: 30px;
+     padding: 16px 12px;
+}
+
+.filter-btn {
+     background: #16A6A8;
+     color: #fff;
+     font-weight: bold;
+     font-size: 18px;
+}
+
+/* Service Cards Section */
+.service-box {
+     background: #F2F2F2;
+     margin-top: 3px;
+     padding: 60px 80px;
+}
